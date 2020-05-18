@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  vintage: 1
+  producer_id: 1
+  country: MyString
+  grape_id: 1
+  purchase_price: 1
+  color: MyString
+
+two:
+  vintage: 1
+  producer_id: 1
+  country: MyString
+  grape_id: 1
+  purchase_price: 1
+  color: MyString
